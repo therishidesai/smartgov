@@ -10,11 +10,16 @@ def searchTwitter(word):
 	'''print word
 	word = 'federal disaster declarations'
 	print word'''
-	results = api.GetSearch(word)
+	'	'.join(word.split())
+	print repr(word)
+	results = api.GetSearch(word, result_type="popular")
 	total = ''
 	for tweet in results:
 		total += tweet.text + '\n'
 
 	print total
+	if len(results) <= 0:
+		return 0
+	
 	return findSentiment(total)
 	

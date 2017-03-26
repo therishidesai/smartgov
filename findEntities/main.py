@@ -8,6 +8,7 @@ def main():
 	for line in f:
 		print line
 		wordList = findEntities(line)
+		print wordList
 		for word in wordList:
 			print 'Word: ', word
 			overall_reaction += searchTwitter(word)

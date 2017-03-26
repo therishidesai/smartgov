@@ -16,7 +16,7 @@ def findEntities(link):
 	    features = [features.Keywords(), features.Entities()]
 	)
 
-	f = open('words.txt', 'w')
+	print response
 
 	total = []
 
@@ -34,7 +34,8 @@ def findEntities(link):
 	return total
 
 def findSentiment(totalTweets):
-	print 'hi'
+	if totalTweets == 0:
+		return 0
 	sentiment = natural_language_understanding.analyze(
 		text = totalTweets,
 		features = [features.Sentiment()]
