@@ -7,19 +7,13 @@ api = twitter.Api(consumer_key = 'EjLOdtH7Gmr0FEpwnVSNojkuS',
 				  access_token_secret = 'UhvYQ6hBZ1NIOSMV7gGbx9smr2ntQ7OMBPepgVJ7l0hhs')
 
 def searchTwitter(word):
-	'''print word
-	word = 'federal disaster declarations'
-	print word'''
-	'	'.join(word.split())
-	print repr(word)
-	results = api.GetSearch(word, result_type="popular")
-	total = ''
+	results = api.GetSearch(word, result_type="popular", lang="en")
+	totalSentiment = []
 	for tweet in results:
-		total += tweet.text + '\n'
+		totalSentiment.append(findSentiment(tweet.text))
 
-	print total
-	if len(results) <= 0:
+	if len(results) <= 0: #no tweets found
 		return 0
 	
-	return findSentiment(total)
+	return totalSentiment
 	
