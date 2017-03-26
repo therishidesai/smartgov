@@ -9,6 +9,7 @@ app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:htt
 
 // Serve static assets
 app.use('/js',express.static(__dirname+'/js'));
+app.use('/views/static/',express.static(__dirname+'/views/static'));
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname+ '/views/index.html'))

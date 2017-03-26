@@ -1,0 +1,102 @@
+{"results":[
+    {
+	"bill_id":"hr1628-115",
+	"official_title":"To provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+	"summary":"American Health Care Act of 2017\n\nThis bill amends the Patient Protection and Affordable Care Act (PPACA) to eliminate funding for the Prevention and Public Health Fund and increase funding for community health centers.\n\nFor one year, certain federal funds may not be made available to states for payments to certain family planning providers (e.g., Planned Parenthood Federation of America).\n\nThe bill amends title XIX (Medicaid) of the Social Security Act (SSAct) to limit, based on enrollment, federal funding for Medicaid beginning in FY2020.\n\nBeginning in 2020, the bill eliminates: (1) the enhanced federal matching rate for new enrollees made eligible for Medicaid by PPACA, and (2) the state option to extend Medicaid coverage to such enrollees. At least every six months, states must redetermine the eligibility of enrollees made eligible for Medicaid by PPACA.\n\nThe bill repeals other changes made to Medicaid by PPACA and modifies additional Medicaid provisions.\n\nCost sharing reductions for low-income individuals are eliminated after 2019.\n\nThis bill amends the SSAct to establish the Patient and State Stability Fund to provide funding to states for the stabilization of health insurance premiums and other purposes.\n\nHealth insurers must increase premiums by 30% for one year for enrollees who have not maintained continuous coverage over the previous year.\n\nThe bill amends the Internal Revenue Code to modify premium subsidies and eliminate the subsidies after 2019.\n\nThe bill repeals the small employer tax credit for employee health insurance expenses, the penalties associated with the individual and large employer mandates for minimum essential health coverage, and other PPACA taxes and tax increases.\n\nThe bill establishes a refundable tax credit in 2020 for certain taxpayers who purchase health insurance on the individual market.\n\nThe bill revises rules for health savings accounts.",
+	"sponsor":"Diane Black (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/1628",
+	"sentiment":"-0.0942853011735",
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr2802-114",
+	"official_title": "To prevent discriminatory treatment of any person on the basis of views held with respect to marriage.",	
+	"summary": "First Amendment Defense Act\n\nProhibits the federal government from taking discriminatory action against a person on the basis that such person believes or acts in accordance with a religious belief or moral conviction that: (1) marriage is or should be recognized as the union of one man and one woman, or (2) sexual relations are properly reserved to such a marriage.\n\nDefines \"discriminatory action\" as any federal government action to discriminate against a person with such beliefs or convictions, including a federal government action to:\n\n alter the federal tax treatment of, cause any tax, penalty, or payment to be assessed against, or deny, delay, or revoke certain tax exemptions of any such person; disallow a deduction of any charitable contribution made to or by such person; withhold, reduce, exclude, terminate, or otherwise deny any federal grant, contract, subcontract, cooperative agreement, loan, license, certification, accreditation, employment, or similar position or status from or to such person; or withhold, reduce, exclude, terminate, or otherwise deny any benefit under a federal benefit program. Requires the federal government to consider to be accredited, licensed, or certified for purposes of federal law any person who would be accredited, licensed, or certified for such purposes but for a determination that the person believes or acts in accordance with such a religious belief or moral conviction.\n\nPermits a person to assert an actual or threatened violation of this Act as a claim or defense in a judicial or administrative proceeding and to obtain compensatory damages or other appropriate relief against the federal government.\n\nAuthorizes the Attorney General to bring an action to enforce this Act against the Government Accountability Office or an establishment in the executive branch, other than the U.S. Postal Service or the Postal Regulatory Commission, that is not an executive department, military department, or government corporation.\n\nDefines \"person\" as any person regardless of religious affiliation, including corporations and other entities regardless of for-profit or nonprofit status.",
+	"sponsor":"Raul Labrador (R)",
+	"url":"https://www.congress.gov/bill/114th-congress/house-bill/2802",
+	"sentiment":"-0.100749137935",	
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr7-115",	
+	"official_title": "To prohibit taxpayer funded abortions.",	
+	"summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)\n\nNo Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017\n\nTITLE I--PROHIBITING FEDERALLY FUNDED ABORTIONS\n\n(Sec. 101) This bill makes permanent the prohibition on the use of federal funds, including funds in the budget of the District of Columbia, for abortion or health coverage that includes abortion. The prohibitions in this bill, and current prohibitions, do not apply to abortions in cases of rape or incest, or where a physical condition endangers a woman's life unless an abortion is performed.\n\nAbortions may not be provided in a federal health care facility or by a federal employee.\n\nTITLE II--APPLICATION UNDER THE AFFORDABLE CARE ACT\n\n(Sec. 201) This bill amends the Internal Revenue Code and the Patient Protection and Affordable Care Act to prohibit qualified health plans from including coverage for abortions. (Qualified health plans are sold on health insurance exchanges, are the only plans eligible for premium subsidies and small employer health insurance tax credits, and fulfill an individual's requirement to maintain minimum essential coverage.) Currently, qualified health plans may cover abortion, but the portion of the premium attributable to abortion coverage is not eligible for subsidies.\n\n(Sec. 202) The bill revises notification requirements for qualified health plans regarding abortion coverage and charges for abortion coverage.",	
+	"sponsor":"Christopher Smith (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/7",
+	"sentiment":"-0.109005745201",	
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr193-115",
+	"official_title": "To end membership of the United States in the United Nations.",
+	"summary": "American Sovereignty Restoration Act of 2017\n\nThis bill repeals the United Nations Participation Act of 1945 and other specified related laws.\n\nThe bill requires: (1) the President to terminate U.S. membership in the United Nations (U.N.), including any organ, specialized agency, commission, or other formally affiliated body; and (2) closure of the U.S. Mission to the United Nations.\n\nThe bill prohibits: (1) the authorization of funds for the U.S. assessed or voluntary contribution to the U.N., (2) the authorization of funds for any U.S. contribution to any U.N. military or peacekeeping operation, (3) the expenditure of funds to support the participation of U.S. Armed Forces as part of any U.N. military or peacekeeping operation, (4) U.S. Armed Forces from serving under U.N. command, and (5) diplomatic immunity for U.N. officers or employees.",
+	"sponsor":"Mike Rogers (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/193",
+	"sentiment":"-0.121807091199",	
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr676-115",
+	"official_title": "To provide for comprehensive health insurance coverage for all United States residents, improved health care delivery, and for other purposes.",
+	"summary": "Expanded & Improved Medicare for All Act\n\nThis bill establishes the Medicare for All Program to provide all individuals residing in the United States and U.S. territories with free health care that includes all medically necessary care, such as primary care and prevention, dietary and nutritional therapies, prescription drugs, emergency care, long-term care, mental health services, dental services, and vision care.\n\nOnly public or nonprofit institutions may participate. Nonprofit health maintenance organizations (HMOs) that deliver care in their own facilities may participate.\n\nPatients may choose from participating physicians and institutions.\n\nHealth insurers may not sell health insurance that duplicates the benefits provided under this bill. Insurers may sell benefits that are not medically necessary, such as cosmetic surgery benefits.\n\nThe bill sets forth methods to pay institutional providers and health professionals for services. Financial incentives between HMOs and physicians based on utilization are prohibited.\n\nThe program is funded: (1) from existing sources of government revenues for health care, (2) by increasing personal income taxes on the top 5% of income earners, (3) by instituting a progressive excise tax on payroll and self-employment income, (4) by instituting a tax on unearned income, and (5) by instituting a tax on stock and bond transactions. Amounts that would have been appropriated for federal public health care programs, including Medicare, Medicaid, and the Children's Health Insurance Program (CHIP), are transferred and appropriated to carry out this bill.\n\nThe program must give employment transition benefits and first priority in retraining and job placement to individuals whose jobs are eliminated due to reduced clerical and administrative work under this bill.\n\nThe Department of Health and Human Services must create a confidential electronic patient record system.\n\nThe bill establishes a National Board of Universal Quality and Access to provide advice on quality, access, and affordability.\n\nThe Indian Health Service must be integrated into the program after five years. Congress must evaluate the continued independence of Department of Veterans Affairs health programs.",
+	"sponsor":"John Conyers (D)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/676",
+	"sentiment":"-0.0076299277937",	
+	"isPos":true,
+	"isNeg":false,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr392-115",
+	"official_title": "To amend the Immigration and Nationality Act to eliminate the per-country numerical limitation for employment-based immigrants, to increase the per-country numerical limitation for family-sponsored immigrants, and for other purposes.",
+	"summary": "Fairness for High-Skilled Immigrants Act of 2017\n\nThis bill amends the Immigration and Nationality Act to: (1) eliminate the per country numerical limitation for employment-based immigrants, and (2) increase the per country numerical limitation for family based immigrants from 7% to 15% of the total number of family-sponsored visas.\n\nThe Chinese Student Protection Act of 1992 is amended to eliminate the provision requiring the reduction of annual Chinese immigrant visas to offset status adjustments under such Act.\n\nThe bill establishes the following transition period for employment-based second and third preference (EB-2 and EB-3) immigrant visas:\n\n for FY2017, 15% of such visas allotted to natives of countries other than the two countries with the largest aggregate numbers of natives obtaining such visas in FY2011; for FY2018, 10% of such visas allotted in each category to natives of countries other than the two with the largest aggregate numbers of natives obtaining such visas in FY2012; and for FY2019, 10% of such visas allotted in each category to natives of countries other than the two with the largest aggregate numbers of natives obtaining such visas in FY2015. The bill sets forth the following per country distribution rules: (1) for transition period visas, not more than 25% of the total number of EB-2 and EB-3 visas for natives of a single country; and (2) for non-transition period visas, not more than 85% of EB-2 and EB-3 visas for natives of a single country.\n\nAmendments made by this bill shall take place as if enacted on September 30, 2016, and shall apply beginning in FY2017.",
+	"sponsor":"Jason Chaffetz (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/392",
+	"sentiment":"-0.00656428833693",	
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr1275-115",
+	"official_title": "To eliminate the individual and employer health coverage mandates under the Patient Protection and Affordable Care Act, to expand beyond that Act the choices in obtaining and financing affordable health insurance coverage, and for other purposes.",
+	"summary": "World's Greatest Healthcare Plan Act of 2017 \n\nThis bill amends the Internal Revenue Code to repeal the requirements for individuals to maintain minimum essential coverage and for large employers to offer affordable coverage to full time employees.\n\nHealth insurance is no longer required to cover preventive care at no cost or include the essential health benefits.\n\nIndividuals enrolling in health insurance who have not maintained continuous coverage over the previous 12 months are charged an extra 20% on premiums for each consecutive year without coverage, unless the individual is subject to similar state incentives to maintain coverage.\n\nStates may enroll uninsured residents in high deductible health plans. Individuals must be permitted to opt-out of this coverage.\n\nThe Department of Health and Human Services (HHS) must develop a risk adjustment mechanism for health insurance in the individual market.\n\nFor residents of a state to qualify for premium subsidies or the health insurance tax credit in this bill, the state must permit health insurance with an annual limit on benefits to be sold on its exchange.\n\nThe bill establishes an advanceable, refundable health insurance tax credit for taxpayers enrolled in coverage that does not cover abortion except in certain circumstances.\n\nStates may: (1) apply to HHS to use unclaimed health insurance tax credits for indigent health care; and (2) enroll Medicaid-eligible individuals in health insurance that qualifies for the tax credit instead of in Medicaid, at the individual's option.\n\nThe tax on excess health benefits (commonly called the Cadillac tax) is repealed.\n\nThe bill establishes Roth HSAs (health savings accounts) for paying certain medical expenses and health insurance premiums.\n\nThe tax deduction for medical expenses is eliminated.\n\nThis bill amends title XIX (Medicaid) and title XVIII (Medicare) of the Social Security Act, including to turn federal Medicaid payments into block grants.",
+	"sponsor": "Pete Sessions (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/1275",
+	"sentiment":"0.0390438583696",	
+	"isPos":true,
+	"isNeg":false,
+	"isNeu":false
+    },
+    {
+	"bill_id": "hr1313-115",
+	"official_title": "To clarify rules relating to nondiscriminatory workplace wellness programs.",
+	"summary": "Preserving Employee Wellness Programs Act\n\nThis bill exempts workplace wellness programs from: (1) limitations under the Americans with Disabilities Act of 1990 on medical examinations and inquiries of employees, (2) the prohibition on collecting genetic information in connection with issuing health insurance, and (3) limitations under the Genetic Information Nondiscrimination Act of 2008 on collecting the genetic information of employees or family members of employees. This exemption applies to workplace wellness programs that comply with limits on rewards for employees participating in the program.\n\nWorkplace wellness programs may provide for more favorable treatment of individuals with adverse health factors, such as a disability.\n\nCollection of information about a disease or disorder of a family member as part of a workplace wellness program is not an unlawful acquisition of genetic information about another family member.",
+	"sponsor":"Virginia Foxx (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/1313",
+	"sentiment": "0.0320612619811",	
+	"isPos":true,
+	"isNeg":false,
+	"isNeu":false
+    },
+    {
+	"bill_id":"hr610-115",
+	"official_title":"To distribute Federal funds for elementary and secondary education in the form of vouchers for eligible students and to repeal a certain rule relating to nutrition standards in schools.",
+	"summary":"Choices in Education Act of 2017\n\nThis bill repeals the Elementary and Secondary Education Act of 1965 and limits the authority of the Department of Education (ED) such that ED is authorized only to award block grants to qualified states.\n\nThe bill establishes an education voucher program, through which each state shall distribute block grant funds among local educational agencies (LEAs) based on the number of eligible children within each LEA's geographical area. From these amounts, each LEA shall: (1) distribute a portion of funds to parents who elect to enroll their child in a private school or to home-school their child, and (2) do so in a manner that ensures that such payments will be used for appropriate educational expenses.\n\nTo be eligible to receive a block grant, a state must: (1) comply with education voucher program requirements, and (2) make it lawful for parents of an eligible child to elect to enroll their child in any public or private elementary or secondary school in the state or to home-school their child.\n\nNo Hungry Kids Act\n\nThe bill repeals a specified rule that established certain nutrition standards for the national school lunch and breakfast programs. (In general, the rule requires schools to increase the availability of fruits, vegetables, whole grains, and low-fat or fat free milk in school meals; reduce the levels of sodium, saturated fat, and trans fat in school meals; and meet children's nutritional needs within their caloric requirements.)",
+	"sponsor":"Steve King (R)",
+	"url":"https://www.congress.gov/bill/115th-congress/house-bill/610ß",
+	"sentiment":"-0.00707825665505",	
+	"isPos":false,
+	"isNeg":true,
+	"isNeu":false
+    }
+]
+}

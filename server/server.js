@@ -3,7 +3,8 @@ var express = require('express'),
     bodyParser = require('body-parser'),
     redis = require('redis'),
     client = redis.createClient(6379, 'smartgov-redis'),
-    request = require('request');
+    request = require('request'),
+    seed_data = require('./analyzer/analyzed_links.json');
 
 
 client.on("connect", function(){
@@ -36,6 +37,9 @@ router.get('/getLatestBills', function(req, res){
     }); 
 });
 
+router.get('/getAnalyzedBills', function(req,res){
+    res.send(seed_data);
+})
 
 app.use('/server', router);
 
