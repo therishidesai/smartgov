@@ -36,3 +36,4 @@ cd smartgov
 docker-compose build
 docker-compose up
 ```
+Then go to [http://localhost/](http://localhost/)
