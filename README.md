@@ -2,6 +2,7 @@
 
 HSHacks III, March 26th, 2017
 
+
 ## Inspiration
 We were inspired by the crazy political times that we live in to build a tool that not only informs people about what is going on in congress but can potentially give insights to congress on public views on their work.
 
@@ -28,4 +29,10 @@ The first thing we want to do is take a deep learning approach to doing summariz
 We also want to optimize the whole process of querying tweets and doing sentiment analysis. One approach is to utilize multi-threading with the sentiment analysis since we are doing sentiment analysis on over a hundred tweets. By spreading the load we will be able to do sentiment analysis faster. Another thing we noticed is many pieces of legislation have similar keywords that result in similar tweets that we end up analyzing; we want to use Redis to cache the results so we can grab cached results of sentiment analysis of tweets we have already analyzed in the past.
 Finally we want to make this an open source project that others can contribute to
 
-
+## Getting the server running with pre-computed data
+```
+git clone https://github.com/apache8080/smartgov.git
+cd smartgov
+docker-compose build
+docker-compose up
+```
