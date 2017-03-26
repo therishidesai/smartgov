@@ -37,3 +37,6 @@ docker-compose build
 docker-compose up
 ```
 Then go to [http://localhost/](http://localhost/)
+
+## Contributors
+Henry Zhang (c0ver) and Rishi Desai (apache8080)
