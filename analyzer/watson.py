@@ -10,11 +10,19 @@ import watson_developer_cloud.natural_language_understanding.features.v1 as \
 	password='ofZZiD1tGNmx'
 )'''
 
-natural_language_understanding = NaturalLanguageUnderstandingV1 (
+#my old credentials
+'''natural_language_understanding = NaturalLanguageUnderstandingV1 (
 	version='2017-02-27',
         username= '7b301118-0849-41d1-a28b-446534870828',
         password='mXhvHLtgrQeA'
+)'''
+
+natural_language_understanding = NaturalLanguageUnderstandingV1 (
+	version='2017-02-27',
+        username= 'f7a165c2-86bc-436a-b90f-2c2577ebe87c',
+        password='OGilZ4xhR6n7'
 )
+
 def findKeyWords(link):
 	response = natural_language_understanding.analyze(
 		url = link,
